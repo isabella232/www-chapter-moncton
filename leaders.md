@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Julien Richard](mailto:julien.richard@owasp.org)
+* [Anthony English](mailto:anthony.english@owasp.org)
