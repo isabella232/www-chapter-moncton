@@ -21,7 +21,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Upcoming Events
 
-Join us Monday at 7pm AST: [OWASP Top 10 - Part 1](https://www.meetup.com/moncton-owasp-meetup-group/events/274531151/)
+Be part of history and join us Tuesday November 17th 2020 at 7pm AST for our first meetup: [OWASP Top 10 - Part 1](https://www.meetup.com/moncton-owasp-meetup-group/events/274531151/)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
