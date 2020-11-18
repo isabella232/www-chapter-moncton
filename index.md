@@ -26,6 +26,15 @@ To be announced...
 
 On Tuesday November 17th 2020 we held our inaugural event. Tony English explained the goals and mission of the OWASP Foundation as well as the Moncton Chapter. We discussed current cybersecurity news in the local area, then since we were a small group, everyone introduced themselves. Julien Richard then proceeded to do an introduction/refresher on the first 5 of the OWASP Top 10. The event finished with a Q&A as well as a discussion.
 
+Here are a few of the resources we discussed during the meeting:
+
+[OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+[OWASP WebGoat - A deliberately insecure application](https://owasp.org/www-project-webgoat/)
+
+[Security Innovation's CyberRanges - Instafriend is offered for free](https://community.securityinnovation.com/)
+
+
 **Click the image the watch the recording:**
 
 [![OWASP Moncton Chapter Inaugural Event Recording](/assets/images/Inaugural.png)](https://player.vimeo.com/video/480764734)
