@@ -20,6 +20,12 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Upcoming Events
+To be announced...
 
-Be part of history and join us Tuesday November 17th 2020 at 7pm AST for our first meetup: [OWASP Top 10 - Part 1](https://www.meetup.com/moncton-owasp-meetup-group/events/274531151/)
+## Past Events
 
+On Tuesday November 17th 2020 we held our inaugural event. Tony English explained the goals and mission of the OWASP Foundation as well as the Moncton Chapter. We discussed current cybersecurity news in the local area, then since we were a small group, everyone introduced themselves. Julien Richard then proceeded to do an introduction/refresher on the first 5 of the OWASP Top 10. The event finished with a Q&A as well as a discussion.
+
+**Click the image the watch the recording:**
+
+[![OWASP Moncton Chapter Inaugural Event Recording](/assets/images/Inaugural.png)](https://player.vimeo.com/video/480764734)
