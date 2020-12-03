@@ -38,7 +38,7 @@ Here are a few of the resources we discussed during the meeting:
 
 [TryHackMe OWASP Top 10 Room](https://tryhackme.com/room/owasptop10)
 
-[![OWASP Moncton Chapter Dec 2nd 2020 Event Recording](https://player.vimeo.com/video/486826102)
+[OWASP Moncton Chapter Dec 2nd 2020 Event Recording](https://player.vimeo.com/video/486826102)
 
 ### November 17th, 2020
 
@@ -48,4 +48,4 @@ On Tuesday November 17th 2020 we held our inaugural event. Tony English explaine
 
 [Security Innovation's CyberRanges - Instafriend is offered for free](https://community.securityinnovation.com/)
 
-[![OWASP Moncton Chapter Inaugural Event Recording](https://player.vimeo.com/video/480764734)
+[OWASP Moncton Chapter Inaugural Event Recording](https://player.vimeo.com/video/480764734)
