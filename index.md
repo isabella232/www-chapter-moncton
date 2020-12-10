@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Moncton
 tags: cybersecurity appsec moncton IT
 region: North America
+meetup-group: moncton-owasp-meetup-group
 
 ---
 
