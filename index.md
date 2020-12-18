@@ -34,13 +34,15 @@ Here are a few of the resources we discussed during the meeting:
 
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
+[SANS Holiday Hack Challenge](https://holidayhackchallenge.com/2020/)
+
 [Annual Metaploit CtF](https://metasploitctf.com)
 
 [TryHackMe Advent of Cyber](https://tryhackme.com/room/adventofcyber2)
 
 [TryHackMe](https://tryhackme.com/)
 
-[OWASP Moncton Chapter Dec 17th 2020 Event Recording]https://player.vimeo.com/video/492652459)
+[OWASP Moncton Chapter Dec 17th 2020 Event Recording](https://player.vimeo.com/video/492652459)
 
 ### December 2nd, 2020
 
