@@ -25,6 +25,23 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Past Events
+### December 17th, 2020
+
+On Wednesday December 17th 2020 we held our third meeting. Julien Richard re-iterated the OWASP Foundation and Moncton chapter's goals and mission and then proceeded to talk about cybersecurity news.
+Jason Sheehan then proceeded to give us a hands-on demo showing us how to exploit some of the OWASP Top 10 application security risks.
+
+Here are a few of the resources we discussed during the meeting:
+
+[OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+[Annual Metaploit CtF](https://metasploitctf.com)
+
+[TryHackMe Advent of Cyber](https://tryhackme.com/room/adventofcyber2)
+
+[TryHackMe](https://tryhackme.com/)
+
+[OWASP Moncton Chapter Dec 17th 2020 Event Recording]https://player.vimeo.com/video/492652459)
+
 ### December 2nd, 2020
 
 On Wednesday December 2nd 2020 we held our second meeting. Tony English re-iterated the OWASP Foundation and Moncton chapter's goals and mission and then proceeded to talk about cybersecurity news.
