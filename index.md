@@ -22,6 +22,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Upcoming Events
 
+The event scheduled on Feb 9th has been cancelled. Please stay tuned!
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Past Events
