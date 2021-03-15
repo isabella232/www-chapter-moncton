@@ -22,10 +22,24 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Upcoming Events
 
-The event scheduled on Feb 9th has been cancelled. Please stay tuned!
+Please stay tuned!
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Past Events
+### March 10th, 2020
+
+On Wednesday December 10th 2021, we held our first meeting of 2021. Jason Sheehan was introduced as the chapter's new co-leader. He will be joining Julien Richard who stays on as the other co-leader and founder of the group. After introductions and discussion of recent Cybersecurity news. OWASP Member Brian Yip proceeded to present an overview of Buffer Overflows.
+
+Here are a few links of things discussed during the meeting:
+
+[Nahamcon](https://ctf.nahamcon.com/)
+
+[Wreath Network THM](https://tryhackme.com/hacktivities) 
+
+[PancakesCon](https://pancakescon.com/)
+
+[OWASP Moncton Chapter Mar 10th 2021 Event Recording](https://player.vimeo.com/video/523564210)
+
 ### December 17th, 2020
 
 On Wednesday December 17th 2020 we held our third meeting. Julien Richard re-iterated the OWASP Foundation and Moncton chapter's goals and mission and then proceeded to talk about cybersecurity news.
