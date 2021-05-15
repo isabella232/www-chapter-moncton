@@ -25,11 +25,13 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 {% include chapter_events.html group=page.meetup-group %}
 
 ## Past Events
+On Wednesday May 11th 2021, we held our second meeting of 2021. After introductions and discussion of recent Cybersecurity news. OWASP Member Ben McHarg proceeded to present an overview of NBCC's Cybersecurity program and their CI-SOC project.
+
+[OWASP Moncton Chapter May 11th 2021 Event Recording](https://vimeo.com/548437335)
+
 ### March 10th, 2020
 
-On Wednesday December 10th 2021, we held our first meeting of 2021. Jason Sheehan was introduced as the chapter's new co-leader. He will be joining Julien Richard who stays on as the other co-leader and founder of the group. After introductions and discussion of recent Cybersecurity news. OWASP Member Brian Yip proceeded to present an overview of Buffer Overflows.
-
-Here are a few links of things discussed during the meeting:
+On Wednesday March 10th 2021, we held our first meeting of 2021. Jason Sheehan was introduced as the chapter's new co-leader. He will be joining Julien Richard who stays on as the other co-leader and founder of the group. After introductions and discussion of recent Cybersecurity news. OWASP Member Brian Yip proceeded to present an overview of Buffer Overflows.
 
 [Nahamcon](https://ctf.nahamcon.com/)
 
